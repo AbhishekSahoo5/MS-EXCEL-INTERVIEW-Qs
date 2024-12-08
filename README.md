@@ -1,6 +1,6 @@
 # MS-EXCEL-INTERVIEW-Qs
 
-Imp. Things to lean in EXCEL
+### Imp. Things to lean in EXCEL
 
       1) Autofill, Flash fill and Text to Columns
       2) Data Validation
