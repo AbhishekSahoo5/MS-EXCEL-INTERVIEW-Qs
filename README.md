@@ -70,5 +70,9 @@
                 -> Multiplication and Division (left to right)
                 -> Addition and Subtraction (left to right)
 
-    
+
+12) What is the difference between Formula and Functions in Excel?
+
+          -> Formula
+    --------------------------
    
