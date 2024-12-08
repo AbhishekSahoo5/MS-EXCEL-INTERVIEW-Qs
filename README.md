@@ -1,5 +1,33 @@
 # MS-EXCEL-INTERVIEW-Qs
 
+Imp. Things to lean in EXCEL
+
+      1) Autofill, Flash fill and Text to Columns
+      2) Data Validation
+      3) Data Validation
+      4) Conditional Formatting
+      5) Basics of Formatting in MS EXCEL
+      6) How to Filtering Data in MS EXCEL
+      7) Dealing with NULL Values
+      8) Dealing with duplicate values
+      9) Fixing Column formates
+      10) Trimming Whitespaces in MSEXCEL
+      11) Test Functions in MS Excel
+      12) How to use IF,AND,OR Functions
+      13) COUNTIF, COUNTIFS, SUMIF, SUMIFS
+      14) XLOOKUP in MS Excel
+      15) Data Connectors in MS Excel
+      16) Cleaning Null Values in POWER Query Editor
+      17) Cardinality and Filter Direction in Power Pivot
+      18) Pivot Charts in MS Excel
+      19) Pivot Tables in MS Excel
+      20) Measures in MS Excel Power Pivot
+      21) Data Modelling and its importance in MS Excel
+      22) Slicer in Power Pivot
+      23) Combine files Using Power Query
+      24) Buttons in MS EXCEL
+      25) Mather Data Cleaning 
+
 1) What is MS Excel??
    
        -> Microsoft Excel is a popular spreedsheet program from Microsoft is extremely important for business, analysts and professionals from many indutries in many industries.
