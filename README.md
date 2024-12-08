@@ -91,3 +91,31 @@
              -> Simplifies repetitive or complex taska with predefined logic.
              -> Easy to use with predefined syntax and arguments.
     
+
+13) How to you create a chart in Excel??
+
+         -> Select data you want to include, go to the "Insert" tab, and choose a chart type.
+
+14) What is conditional formatting, and how do you apply it?
+
+          -> It's formatting applied based on specific conditions. To apply conditional formatting, select a category, go to "Home"--> "Conditional Formatting".
+
+15) Explain the VLOOKUP function ?
+
+          -> VLOOKUP is a function in Excel that searches for a value in the first coulmn of a range and returns a value from the second column in the same row.
+          -> VLOOKUP Function: VLOOKUP(lookup_value, table_array, col_index_num,[range_lookup])
+
+16) Write a Formula for the given case: Multiply the value in call B5 by 50, and add the result by 10, and divide it by 2.
+17) Write a formula that checks if a value in cell B1 is greater than 50 If true, return "Pass", otherwise return "Fail".
+18) Combine the first name in cell A1 and the last name in cell B1 into full name.
+19) How will you Highlights all cells in the range F1:F10 that ae greater than 100?
+
+
+
+
+
+
+
+
+
+
