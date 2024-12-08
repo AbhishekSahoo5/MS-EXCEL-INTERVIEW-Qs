@@ -74,7 +74,7 @@
 12) What is the difference between Formula and Functions in Excel?
 
           -> Formula
-              -> A formula isa user-defined expression that performs calculations using operations and references.
+             -> A formula isa user-defined expression that performs calculations using operations and references.
              -> Created manually by the user using operators like +,-,*, etc.
              -> =A1+B1-C1
              -> Can range from simple to complex based on user-defined logic.
@@ -83,4 +83,11 @@
              -> Requires manual entry and logic setup.
 
           -> Function
+             -> A fuction is a pre-built operation in Excel designed to perform specific tasks.
+             -> Predefined in Excel, called by entering the function name (eg. =SUM, =AVERAGE)
+             -> =SUM(A1:A10) or -IF(A1>10, "YES","NO")
+             -> Often simplifies complex operations into single commands
+             -> Limited to the structure and purpose of the predefined function.
+             -> Simplifies repetitive or complex taska with predefined logic.
+             -> Easy to use with predefined syntax and arguments.
     
