@@ -53,7 +53,7 @@
           2) It adjusts with the movement of Rows and Columns.
           3) Useful for applying same formula acress multiple cells.
           4) If the original formula in A1 is "=B1+C1" and is cpoied to A2, it gets adjusted to "=B2+C2"
-
+----------------------------------------------------------------------------------------------
 
           -> Absolute Reference
     -------------------------------
